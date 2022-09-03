@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MobileProject5</string>
+    <string name="str_create">Create a Point of Interest</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="description">Description</string>
+    <string name="create">Create</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
